@@ -1,6 +1,5 @@
 # bithumb-HelloService
-
-# REST API에 반응하는 local 웹 서버 앱 구축
+### REST API에 반응하는 local 웹 서버 앱 구축
 
 ## Spec
 

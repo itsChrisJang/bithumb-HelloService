@@ -1,0 +1,4 @@
+msa:
+  client:
+    person: # person 도메인 주소
+      url: http://localhost:8081
